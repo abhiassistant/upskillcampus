@@ -1,5 +1,5 @@
 // Industrial IoT Telemetry & Threshold Filtering Node
-// Microcontroller: ESP32 / Arduino Framework
+// Microcontroller: ESP32 / Arduino Framework 
 #include <Arduino.h>
 
 const int SENSOR_PIN = 34; // ADC pin for analog sensor
